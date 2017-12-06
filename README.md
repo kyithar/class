@@ -18,8 +18,6 @@ All of the processed files will be saved in the 'dataset_processed' folder.
 
 5) Run the 'maincsv_reader.py' or 'maincsv.ipynb'
 
-**If you have any question, please send email to me.**
-
 # Sample codes for class project
 ### Ipython Notebook
 * [join_dataset](https://github.com/kyithar/class/blob/master/preprocess/join_dataset.ipynb)
