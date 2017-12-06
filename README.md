@@ -5,7 +5,7 @@ It includes two versions as follows,
 2) [ipython note book files](https://github.com/kyithar/class/tree/master/dataset_clean/ipynb).
 
 ### Getting started
-1) Install followings pakages by uisng pip or pip3.
+1) Install followings packages by using pip or pip3.
 * `pip install pands`
 * `pip install dask[complete] toolz cloudpickle`
 * `pip install matplotlib`
