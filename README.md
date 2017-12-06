@@ -6,10 +6,10 @@ It includes two versions as follows,
 
 ### Getting started
 1) Install followings pakages by uisng pip or pip3.
-* pip install pands
-* pip install dask[complete] toolz cloudpickle
-* pip install matplotlib
-* pip install seaborn
+* `pip install pands`
+* `pip install dask[complete] toolz cloudpickle`
+* `pip install matplotlib`
+* `pip install seaborn`
 
 2) Download the [code](https://github.com/kyithar/class/tree/master/dataset_clean) to your pc
 3) Download [dataset](http://files.grouplens.org/datasets/movielens/ml-latest.zip)
