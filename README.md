@@ -11,12 +11,12 @@ It includes two versions as follows,
 * pip install matplotlib
 * pip install seaborn
 
-2) Download the code to your pc
-
-3) copy 'movies.csv' and 'ratings.csv' files from the dataset and past those files to the 'dataset_original' folder.
+2) Download the [code](https://github.com/kyithar/class/tree/master/dataset_clean) to your pc
+3) Download [dataset](http://files.grouplens.org/datasets/movielens/ml-latest.zip)
+4) Extract 'ml-latest.zip', copy 'movies.csv' and 'ratings.csv' files from the dataset and past those files to the 'dataset_original' folder.
 All of the processed files will be saved in the 'dataset_processed' folder.
 
-4) Run the 'maincsv_reader.py' or 'maincsv.ipynb'
+5) Run the 'maincsv_reader.py' or 'maincsv.ipynb'
 
 
 # Sample codes for class project
