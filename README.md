@@ -6,7 +6,7 @@ It includes two versions as follows,
 
 ### Getting started
 1) Install followings packages by using pip or pip3.
-* `pip install pands`
+* `pip install pandas`
 * `pip install dask[complete] toolz cloudpickle`
 * `pip install matplotlib`
 * `pip install seaborn`
