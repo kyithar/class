@@ -5,11 +5,8 @@ It includes two versions as follows,
 2) [ipython note book files](https://github.com/kyithar/class/tree/master/dataset_clean/ipynb).
 
 ### Getting started
-1) Install followings packages by using pip or pip3.
-* `pip install pandas`
-* `pip install dask[complete] toolz cloudpickle`
-* `pip install matplotlib`
-* `pip install seaborn`
+1) Run the 'requirements.txt' as follows
+* `pip installl -r requirements.txt`
 
 2) Download the [code](https://github.com/kyithar/class/tree/master/dataset_clean) to your pc
 3) Download [dataset](http://files.grouplens.org/datasets/movielens/ml-latest.zip)
