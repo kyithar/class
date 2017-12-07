@@ -6,7 +6,7 @@ It includes two versions as follows,
 
 ### Getting started
 1) Run the 'requirements.txt' as follows
-* `pip installl -r requirements.txt`
+* `pip install -r requirements.txt`
 
 2) Download the [code](https://github.com/kyithar/class/tree/master/dataset_clean) to your pc
 3) Download [dataset](http://files.grouplens.org/datasets/movielens/ml-latest.zip)
