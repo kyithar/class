@@ -15,6 +15,9 @@ All of the processed files will be saved in the 'dataset_processed' folder.
 
 5) Run the 'maincsv_reader.py' or 'maincsv.ipynb'
 
+### To get sequential inputs
+If you want to get the sequential inputs for training and testing, please check [to_seq.py](https://github.com/kyithar/class/blob/master/to_seq.py)
+
 # Sample codes for class project
 ### Ipython Notebook
 * [join_dataset](https://github.com/kyithar/class/blob/master/preprocess/join_dataset.ipynb)
